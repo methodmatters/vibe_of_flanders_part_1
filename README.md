@@ -5,6 +5,6 @@ LINK HERE
 
 The code is in the "Scripts" directory of this repo.
 
-The raw and prepared data are in the "Data" directory of this repo
+The raw and prepared data are in the "Data" directory of this repo.
 
 Comments, suggestions, improvements are welcome!
