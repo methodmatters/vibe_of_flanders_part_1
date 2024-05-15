@@ -1,7 +1,8 @@
 # Data and code for blog post: The Vibe of Flanders - Part 1
 
 The content here accompanies the following blog post:
-LINK HERE
+
+### https://methodmatters.github.io/vibe-of-flanders/
 
 The code is in the "Scripts" directory of this repo.
 
